@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<!-- BEGIN HEAD -->
+
+<head>
+    <meta charset="utf-8" />
+    <title>XYPIKE</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href='http://fonts.googleapis.com/css?family=Roboto:300italic,400italic,700italic,400,300,700&amp;subset=all' rel='stylesheet' type='text/css'>
+    <link href="assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/font-awesome5/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/animate/animate.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+    <!-- BEGIN: BASE PLUGINS  -->
+    <link href="assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/owl-carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css" />
+    <!-- END: BASE PLUGINS -->
+    <!-- BEGIN THEME STYLES -->
+    <link href="assets/demos/default/css/plugins.css" rel="stylesheet" type="text/css" />
+    <link href="assets/demos/default/css/components.css" id="style_components" rel="stylesheet" type="text/css" />
+    <link href="assets/demos/default/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />
+    <link href="assets/demos/default/css/custom.css" rel="stylesheet" type="text/css" />
+    <!-- END THEME STYLES -->
+    <link rel="shortcut icon" href="favicon.ico" /> </head>
+
+<body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-topbar c-layout-header-topbar-collapse">
+    <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
+    <!-- BEGIN: HEADER -->
+    <header class="c-layout-header c-layout-header-4 c-layout-header-default-mobile c-navbar-fluid" data-minimize-offset="80">
+        <div class="c-topbar c-bg-xypike-topbar">
+            <div class="container">
+                <!-- BEGIN: INLINE NAV -->
+                <nav class="c-top-menu c-pull-left">
+                    <ul class="c-icons c-theme-ul">
+                        <li><a href="#"><i class="icon-social-twitter c-font-white"></i></a></li>
+                        <li><a href="#"><i class="icon-social-facebook c-font-white"></i></a></li>
+                        <li><a href="#"><i class="icon-social-dribbble c-font-white"></i></a></li>
+                    </ul>
+                </nav>
+                <!-- END: INLINE NAV -->
+                <!-- BEGIN: INLINE NAV -->
+                <nav class="c-top-menu c-pull-right">
+                    <ul class="c-links c-theme-ul c-font-white">
+                        <li><a href="#"><span class="c-font-white">Help</span></a></li>
+                        <li class="c-divider">|</li>
+                        <li><a href="#contact"><span class="c-font-white">Contact</span></a></li>
+                        <li class="c-divider">|</li>
+                        <li><a href="#faq"><span class="c-font-white">FAQ</span></a></li>
+                    </ul>
+                </nav>
+                <!-- END: INLINE NAV -->
+            </div>
+        </div>
+        <div class="c-navbar">
+            <div class="container-fluid">
+                <!-- BEGIN: BRAND -->
+                <div class="c-navbar-wrapper clearfix">
+                    <div class="c-brand c-pull-left">
+                        <a href="xypike-7.html" class="c-logo"> <img src="assets/base/img/layout/logos/logo-x.png" width="87" height="21" alt="JANGO" class="c-desktop-logo"> <img src="assets/base/img/layout/logos/logo-x.png" alt="JANGO" width="87" height="21" class="c-desktop-logo-inverse"> <img src="assets/base/img/layout/logos/logo-x.png" alt="JANGO" width="87" height="21" class="c-mobile-logo"> </a>
+                        <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu"> <span class="c-line"></span> <span class="c-line"></span> <span class="c-line"></span> </button>
+                        <button class="c-topbar-toggler" type="button"> <i class="fa fa-ellipsis-v"></i> </button>
+                        <button class="c-cart-toggler" type="button"> <i class="icon-handbag"></i> <span class="c-cart-number c-theme-bg">2</span> </button>
+                    </div>
+                    <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
+                        <ul class="nav navbar-nav c-theme-nav">
+                            <li> <a href="xypike-7.html" class="c-link dropdown-toggle">Products<span class="c-arrow c-toggler"></span></a> </li>
+                            <li> <a href="#stories" class="c-link dropdown-toggle">Stories<span class="c-arrow c-toggler"></span></a> </li>
+                            <li> <a href="#howto" class="c-link dropdown-toggle">How to<span class="c-arrow c-toggler"></span></a> </li>
+                            <li class="c-cart-toggler-wrapper"> <a href="#" class="c-btn-icon c-cart-toggler"><i class="icon-handbag c-cart-icon"></i> <span class="c-cart-number c-theme-bg">2</span></a> </li>
+                            <li> <a href="javascript:;" data-toggle="modal" data-target="#login-form" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-sm c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold"><i class="icon-user"></i> Login</a> </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div id="home"></div>
+    <div class="c-layout-page">
+        <div class="c-content-box c-size-lg c-overflow-hide">
+            <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-40">
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Get life-changing actionable insights from your existing DNA tests</span>
+					</h3>
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar c-font-bold">IMPROVE YOUR WELLNESS</span>
+					</h3>
+                <h3 class="c-center c-margin-t-5">				
+				<span class="c-xypike-titlefrontbar"><a href="#howto" class="c-action-btn btn btn-lg c-btn-square c-btn-border-2x c-btn-dark c-btn-bold c-btn-uppercase">learn more</a></span>
+					</h3></div>
+            <div class="row c-margin-t-40">
+                <div>
+                    <div class="col-md-2 col-sm-5 col-lg-1"></div>
+                    <div class="col-md-2 col-sm-5">
+                        <div class="c-content c-font-center">
+                            <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_1.png"> </a>
+                        </div>
+                        <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">fitness</div>
+                    </div>
+                    <div class="col-md-2 col-sm-5">
+                        <div class="c-content c-font-center">
+                            <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_2.png"> </a>
+                        </div>
+                        <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">nutrition</div>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-5">
+                    <div class="c-content c-font-center">
+                        <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_3.png"></a>
+                    </div>
+                    <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">allergies</div>
+                </div>
+                <div class="col-md-2 col-sm-5">
+                    <div class="c-content c-font-center">
+                        <a href="#fitness-prod"> <img src="assets/base/img/content/shop3/image_4.png"></a>
+                    </div>
+                    <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">about you</div>
+                </div>
+                <div class="col-md-2 col-sm-5">
+                    <div class="c-content c-font-center">
+                        <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_5.png"></a>
+                    </div>
+                    <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">skincare</div>
+                </div>
+            </div>
+            <div class="row c-bg-xypike-bottompanel c-center c-padding-20  c-margin-t-120">
+                <h3 class="c-green-dark">Select ALL PRODUCTS to receive a discount on Total Wellness Package</h3> </div>
+            <div class="row c-bg-white c-center c-font-dark">
+                <h3><span class="c-xypike-titlefrontbar"><a href="#" class="c-action-btn btn btn-lg c-btn-square c-btn-border-2x c-btn-dark c-btn-bold c-btn-uppercase">start your journey</a></span>
+					</h3> </div>
+        </div>
+        <div id="fitness-prod"></div>
+        <div class="c-content-box c-size-lg c-bg-white c-xypike-titlefrontbar">
+            <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Fitness+Excercise</span>
+					</h3> </div>
+            <div class="container c-padding-80">
+                <div class="row">
+                    <div class="col-lg-2 c-center"><img src="assets/base/img/content/shop3/image_1.png">
+                        <div class="row c-bg-white c-left c-font-dark c-center">
+                            <h3><span class="c-xypike-titlefrontbar"><a href="#" class="c-action-btn btn btn-sm c-btn-square c-btn-border-2x c-btn-dark c-btn-bold c-btn-uppercase  c-margin-40">Add to shopping cart</a></span>
+					</h3> </div>
+                    </div>
+                    <div class="col-lg-8 c-font-bold">Genetics have a significant effect on your overall muscle power and how much exercise your body needs. Your potential for muscle injury, muscle cramps and muscle soreness after exercise is also influenced by your genes.</div>
+                </div>
+                <div class="row  c-margin-t-80">
+                    <div class="c-content-tab-1 c-theme">
+                        <div class="clearfix">
+                            <ul class="nav nav-tabs c-font-bold">
+                                <li class=""> <a href="#tab1" data-toggle="tab">Description</a> </li>
+                                <li> <a href="#tab2" data-toggle="tab">Traits</a> </li>
+                                <li class="active"> <a href="#tab3" data-toggle="tab" aria-expanded="true">
+									Testimonials </a> </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-9 col-sm-8 col-xs-8">
+                            <div class="tab-content c-padding-sm">
+                                <div class="tab-pane fade" id="tab1">
+                                    <p> Twenty-eight fitness characteristics offer valuable insights into the ways your body will respond to different kinds of exercise. More importantly, your genetic makeup also determines the particular types of injuries to which you may be susceptible.Whether you are looking to lose weight, increase your strength and endurance or avoid an injury, our reports will help you and your trainer create the best-fitting program for you.</p>
+                                    <p> Should you do power exercises, endurance exercises, or both? Do you have genetic predispositions for becoming a professional athlete? Can you run a marathon? What is your potential for having a leaner body mass? This report will specify your particular predispositions. </p>
+                                </div>
+                                <div class="tab-pane fade" id="tab2">
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Athletics Profile</p> Aerobic performance Elite Endurance Athletes Exercise Aversion Joint Flexibility Lean Body Mass Potential Low Resting Metabolic Rate </div>
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Injury Potential</p>Achilles Tendinopathy Anterior Cruciate Ligament Rupture Joint Injury Tendon and Ligament Injury Stress Fracture</div>
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Characterictics</p>Muscle Response to Resistance Training Muscle Soreness Muscle Strength Loss Skeletal Muscle Performance Slow Muscle Repair</div>
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Exersize Benefits</p>Maximal Oxygen Uptake Response Lowering Cholesterol Heartbeat Reduction Difficulty Lower Heart Pump Function Blood Pressure</div>
+                                </div>
+                                <div class="tab-pane active" id="tab3">
+                                    <p> The information provided in my report was very interesting for me and revealed some un-expected aspects. Positive effects on my training remain to be proven, however it was very inspiring for me.</p>
+                                    <p> I wanted to get my fitness and diet to the next level. Once I received the reports I had a few sessions with my fitness and dietitian coaches and everything became clear. It was a very good investment and now I will adjust my training program and I am looking forward to see the results over the next few months! </p>
+                                    <p> Really insightful and in-depth reports. I’ve already started to act on the results of both the nutrition and exercise reports. I’m using the low carbohydrate plan and looking at changing the way I exercise to make the most of my training. Very glad I did it! </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="stories"></div>
+        <div class="c-content-box c-size-lg c-bg-white c-xypike-titlefrontbar c-margin-b-50 container-fluid">
+            <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">There are the stories of our customers</span>
+					</h3>
+                <h5 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Your experience may be different since everybody's DNA is unique</span>
+					</h5> </div>
+            <div class="container c-padding-160 c-col-4">
+                <ul class="c-font-18 c-theme">
+                    <li class="c-padding-10">The Diet and Nutrition insights has really pushed me to consider my relationship with food, the diet choices I make, and has convinced me to make long-term changes. </li>
+                    <li class="c-padding-10">I’ve always struggled with nutrition, never knowing exactly what I’m supposed to eat. I am a very picky eater, but now, thanks to the DNA based insgihts, I know what's the best for my body.</li>
+                    <li class="c-padding-10">I’ve always struggled with nutrition, never knowing exactly what I’m supposed to eat. I am a very picky eater, but now, thanks to the DNA based insgihts, I know what's the best for my body.</li>
+                    <li class="c-padding-10">This information has really changed my life. By learning about my DNA, I was able to maximize the effects of my workouts and see what I was doing wrong. I was able to hit my workout goal and become the healthiest I’ve ever been!</li>
+                    <li class="c-padding-10">The results were quick and the reports are very imformative</li>
+                </ul>
+            </div>
+        </div>
+        <div id="howto"></div>
+        <div class="c-content-box c-size-lg c-bg-white c-xypike-titlefrontbar">
+            <div>
+                <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                    <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Change your life!</span>
+					</h3>
+                    <h5 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Only the knowledge about your genetic predispositions enables a personalized wellness</span>
+					</h5> </div>
+                <div class="container c-padding-160">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6 wow animate fadeInLeft">
+                            <div class="c-content-step-1 c-opt-1">
+                                <div class="c-icon"><span class="c-hr c-hr-first"><i class="fa fa-user   c-xypike-titlefrontbar"></i></span> </div> <a href="javascript:;" data-toggle="modal" data-target="#signup-form" data-dismiss="modal" class="btn btn-primary c-btn-round  c-btn-uppercase c-btn-bold">Register</a>
+                                <div class="c-title c-font-20 c-font-bold c-font-uppercase">Sign-up now.</div>
+                                <div class="c-description1 c-font-17 c-xypike-titlefrontbar"> Through your account you can view, print, and download your wellness reports, as well as share it with your providers. </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 wow animate fadeInLeft" data-wow-delay="0.2s">
+                            <div class="c-content-step-1 c-opt-1">
+                                <div class="c-icon"><span class="c-hr"><i class="fa fa-cloud-upload   c-xypike-titlefrontbar"></i></span> </div> <a href="javascript:;" data-toggle="modal" data-target="#upload-dna-instructions-form" data-dismiss="modal" class="btn btn-primary c-btn-round  c-btn-uppercase c-btn-bold"> upload my DNA file?</a>
+                                <div class="c-title c-font-20 c-font-bold c-font-uppercase">Upload raw DNA file.</div>
+                                <div class="c-description1 c-font-17 c-xypike-titlefrontbar"> Upload your existing 23andMe, Ancestry.com or FTDNA data and in just a few clicks you will discover a whole world of personalization waiting for you. </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-12 wow animate fadeInLeft" data-wow-delay="0.4s">
+                            <div class="c-content-step-1 c-opt-1">
+                                <div class="c-icon"><span class="c-hr c-hr-last"><i class="fa fa-gift   c-xypike-titlefrontbar"></i></span> </div>
+                                <a href="" onclick="alert('choose products here'); return false;">
+                                    <button class="btn btn-primary c-btn-round  c-btn-uppercase c-btn-bold">products</button>
+                                </a>
+                                <div class="c-title c-font-20 c-font-bold c-font-uppercase">Choose the product</div>
+                                <div class="c-description1 c-font-17 c-xypike-titlefrontbar"> Choose the options that best suit your needs and receive easy to read, informative results within minutes. Select all products to receive a discount for Total Wellness Package. </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="contact"></div>
+        <div class="c-content-box c-size-lg c-bg-white c-xypike-titlefrontbar">
+            <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Contact Us/About Us</span>
+					</h3> </div>
+            <div class="container-fluid c-padding-160">
+                <div class="row">
+                    <div class="col-lg-12 col-lg-offset-2">
+                        <div class="c-content-tab-2 c-theme c-margin-t-3">
+                            <div class="clearfix">
+                                <ul class="nav nav-tabs c-font-uppercase c-font-bold">
+                                    <li class="active"><a href="#tab_1_1_content" data-toggle="tab">CONTACT US</a></li>
+                                    <li><a href="#tab_1_2_content" data-toggle="tab">ABOUT US</a></li>
+                                </ul>
+                            </div>
+                            <div class="tab-content c-bordered c-padding-lg">
+                                <div class="tab-pane active c-margin-t-20" id="tab_1_1_content">
+                                    <div class="col-md-6 c-margin-t-40">
+                                        <p class="c-font-lowercase c-bg-xypike-bottompanel c-padding-10 c-green-dark">Please complete the below contact form to connect with us. We would love to hear from you!</p>
+                                        <form action="#">
+                                            <div class="form-group c-margin-t-40">
+                                                <input type="text" placeholder="Your Name" class="form-control c-square c-theme input-lg"> </div>
+                                            <div class="form-group">
+                                                <input type="text" placeholder="Your Email" class="form-control c-square c-theme input-lg"> </div>
+                                            <div class="form-group">
+                                                <textarea rows="5" name="message" placeholder="Write comment here ..." class="form-control c-theme c-square input-lg"></textarea>
+                                            </div>
+                                            <a href="" onclick="alert('submit contact form here'); return false;">
+                                                <input type="submit" value="Submit" class="btn btn-primary c-btn-round c-btn-uppercase c-btn-bold" tabindex="7"> </a>
+                                        </form>
+                                    </div>
+                                </div>
+                                <div class="tab-pane c-margin-t-20" id="tab_1_2_content">
+                                    <div class="col-md-10 col-lg-7 c-margin-t-40">
+                                        <p class="c-font-bold"><i class="fa fa-check c-font-blue"></i> Advancing wellness through information-driven insights </p>
+                                        <p>We are a consumer-genomics, data science, and analytics company founded on the idea that more information, deeper analysis, and increased engagement will improve the diagnosis, treatment, and prevention of diseases. Our unique advanced analytics platform enables us to provide genetics-based reports and meaningful insights into who our clients truly are.</p>
+                                        <p class="c-font-bold"><i class="fa fa-check c-font-blue"></i> Unlocking a digital universe of information </p>
+                                        <p>By combining the best practices of data analytics with decisive report design, we are unlocking deeper insights into the genetic makeup and predispositions of our clients. Our patented flexible analytics technology platform parses a clients genetic information, dissecting and reporting on only what is needed to optimize performance and overall well-being.</p>
+                                        <p class="c-font-bold"><i class="fa fa-check c-font-blue"></i> We continuously evolve</p>
+                                        <p>With new developments and innovations taking place daily, we believe that the tools we create must continue to evolve and diversify based on your demand and new scientific discoveries. We continuously monitor the latest findings in genetic research, as well as their applications. As our brand grows and evolves, we invite you to grow with us.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--<div id="signup"></div>
+<div class="c-content-box c-size-lg c-bg-white c-xypike-titlefrontbar">
+    <div class="container c-margin-t-0">
+        <div class="c-content-tab-2 c-theme c-margin-t-5">
+            <div class="clearfix1">
+                <ul class="nav nav-tabs c-font-uppercase c-font-bold">
+                    <li class="active"><a href="#tab_individuals" data-toggle="tab">CREATE AN INDIVIDUALS ACCOUNT</a></li>
+                    <li><a href="#tab_providers" data-toggle="tab">CREATE A PROVIDERS ACCOUNT</a></li>
+                    <li><a href="#tab_dnaupload" data-toggle="tab">DNA UPLOAD</a></li>
+                </ul>
+            </div>
+            <div class="tab-content c-bordered c-padding-lg">
+                <div class="tab-pane active c-margin-t-20" id="tab_individuals">
+                    <div class="c-content-title-4 c-bg-xypike-titlefrontbar  c-padding-10">
+                        <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">CREATE A USER ACCOUNT</span>
+					</h3></div>
+                    <div class="row">
+                        <div class="col-lg-9 col-lg-offset-2">
+                            <form role="form">
+                                <h2>Sign-up to upload the DNA data and to order the insights. 
+Through your account you can view, print, and download your wellness reports, 
+as well as share it with your providers</h2>
+                                <hr class="colorgraph1">
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-6 col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="first_name" id="u_first_name" class="form-control input-lg" placeholder="First Name" tabindex="1"> </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-6 col-md-6">
+                                        <div class="form-group">
+                                            <input type="text" name="last_name" id="u_last_name" class="form-control input-lg" placeholder="Last Name" tabindex="2"> </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="email" id="u_email" class="form-control input-lg" placeholder="Email Address" tabindex="4"> </div>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-6 col-md-6">
+                                        <div class="form-group">
+                                            <input type="password" name="password" id="u_password" class="form-control input-lg" placeholder="Password" tabindex="5"> </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-6 col-md-6">
+                                        <div class="form-group">
+                                            <input type="password" name="password_confirmation" id="u_password_confirmation" class="form-control input-lg" placeholder="Confirm Password" tabindex="6"> </div>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-8 col-sm-9 col-md-9 col-lg-12"> By clicking <strong class="label label-primary">Register</strong>, you agree to the <a href="#" data-toggle="modal" data-target="#t_and_c_m">Terms and Conditions</a> set out by this site, including our Cookie Use. </div>
+                                </div>
+                                <hr class="colorgraph">
+                                <div class="row">
+                                    <div class="col-xs-12 col-md-6">
+                                        <input type="submit" value="Register" class="btn btn-primary btn-md" tabindex="7"> </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane c-margin-t-20" id="tab_providers">
+                    <div class="c-content-title-4 c-bg-xypike-titlefrontbar  c-padding-10">
+                        <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">CREATE A PROVIDER ACCOUNT</span>
+					</h3></div>
+                    <div class="col-lg-9 col-lg-offset-2">
+                        <h2>Genetic consulting adds a significant new dimension to your practice, allowing you to grow your business through empowering your clients with individualized plans and actionable insights. 
+			</h2>
+                        <h2>
+While our reports are designed to be as clear as possible, we urge our clients to consult with professional service providers and we will refer them to you!</h2>
+                        <div class="row">
+                            <div class="col-lg-4 c-margin-t-50 c-padding-20 c-bg-xypike-bottompanel c-green-dark">
+                                <p>JOIN OUR REFERRAL NETWORK</p>
+                                <p>ENHANCE YOUR OFFERINGS</p>
+                                <p>GROW YOUR BUSINESS</p>
+                                <p>BOOST YOUR REVENUE </p>
+                            </div>
+                            <div class="col-xs-12 col-sm-8 col-md-6 col-lg-7">
+                                <form role="form">
+                                    <hr class="colorgraph1">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-6 col-md-6">
+                                            <div class="form-group">
+                                                <input type="text" name="first_name" id="first_name" class="form-control input-lg" placeholder="First Name" tabindex="1"> </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-6">
+                                            <div class="form-group">
+                                                <input type="text" name="last_name" id="last_name" class="form-control input-lg" placeholder="Last Name" tabindex="2"> </div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="email" name="email" id="email" class="form-control input-lg" placeholder="Email Address" tabindex="4"> </div>
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-6 col-md-6">
+                                            <div class="form-group">
+                                                <input type="password" name="password" id="password" class="form-control input-lg" placeholder="Password" tabindex="5"> </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-6">
+                                            <div class="form-group">
+                                                <input type="password" name="password_confirmation" id="password_confirmation" class="form-control input-lg" placeholder="Confirm Password" tabindex="6"> </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-6 col-md-6">
+                                            <div class="form-group">
+                                                <input type="text" name="website" id="website" class="form-control input-lg" placeholder="Website" tabindex="1"> </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-6 col-md-6">
+                                            <div class="form-group">
+                                                <input type="text" name="your_business" id="your_business" class="form-control input-lg" placeholder="Describe Your Business" tabindex="2"> </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-xs-8 col-sm-9 col-md-9 col-lg-12"> By clicking <strong class="label label-primary">Register</strong>, you agree to the <a href="#" data-toggle="modal" data-target="#t_and_c_m">Terms and Conditions</a> set out by this site, including our Cookie Use. </div>
+                                    </div>
+                                    <hr class="colorgraph">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-md-6 c-text-right">
+                                            <input type="submit" value="Register" class="btn btn-primary btn-md" tabindex="7"> </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="tab-pane  c-margin-t-20" id="tab_dnaupload">
+                    <div class="c-content-title-4 c-bg-xypike-titlefrontbar  c-padding-10">
+                        <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">DNA UPLOAD</span>
+					</h3></div>
+                    <div class="col-lg-10 col-lg-offset-2"> <span class="c-margin-r-10 c-xypike-titlefrontbar"><i class="fa fa-search c-margin-r-10"></i>Select DNA file on your computer</span>
+                        <input type="submit" value="Upload" class="btn btn-primary  btn-lg" tabindex="7">
+                        <hr class="colorgraph">
+                        <div class="c-col-12 ">
+                            <div class="row c-bg-grey c-padding-20">
+                                <h3 class="c-center c-font-bold c-xypike-titlefrontbar ">Where to find and how to download the DNA file?</h3>
+                                <div class="col-md-4 col-sm-6 col-lg-4">
+                                    <p class="c-font-bold c-xypike-titlefrontbar">23andme.com </p>
+                                    <ul>
+                                        <li> Go to Tools</li>
+                                        <li>Click on Browse Raw Data</li>
+                                        <li>Click on Download </li>
+                                        <li>Enter your password </li>
+                                        <li>Download Raw Data </li>
+                                    </ul>
+                                    <p>https://www.ansestry.com</p>
+                                </div>
+                                <div class="col-md-4 col-sm-6  col-lg-4">
+                                    <p class="c-font-bold c-xypike-titlefrontbar">Ancestry.com </p>
+                                    <ul>
+                                        <li> Sign to your Ancestry account </li>
+                                        <li>Go to the DNA tab </li>
+                                        <li>Click on Your DNA Home Page</li>
+                                        <li>Click on Manage Test Settings</li>
+                                    </ul>
+                                    <p>https://www.ansestry.com</p>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-lg-4 c-bg-red1">
+                                    <p class="c-font-bold c-xypike-titlefrontbar">FTDNA.com </p>
+                                    <ul>
+                                        <li>Sign to your FTDNA account </li>
+                                        <li>Click myFTDNA </li>
+                                        <li>CLick om MyDNA </li>
+                                        <li>Click on Family Finder </li>
+                                        <li>Download Raw Data </li>
+                                    </ul>
+                                    <p>https://www.familytreedna.com</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>--></div>
+    <!--
+    MODAL FORMS START
+-->
+    <div class="modal fade c-content-signup-form" id="upload-dna-instructions-form" role="dialog" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog">
+            <div class="modal-content c-square">
+                <div class="modal-header c-no-border">DNA UPLOAD
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <div><span class="c-margin-r-10 c-xypike-titlefrontbar"><i class="fa fa-search c-margin-r-10"></i>Select DNA file on your computer</span>
+                        <input type="submit" value="Upload" class="btn btn-primary btn-xs" tabindex="7"> </div>
+                    <hr class="colorgraph">
+                    <div class="c-col-12 ">
+                        <div class="row c-bg-grey c-padding-20">
+                            <h3 class="c-center c-font-bold c-xypike-titlefrontbar ">Where to find and how to download the DNA file?</h3>
+                            <div class="col-md-4 col-sm-6 col-lg-4">
+                                <p class="c-font-bold c-xypike-titlefrontbar">23andme.com </p>
+                                <ul>
+                                    <li> Go to Tools</li>
+                                    <li>Click on Browse Raw Data</li>
+                                    <li>Click on Download </li>
+                                    <li>Enter your password </li>
+                                    <li>Download Raw Data </li>
+                                </ul>
+                                <p>https://www.ansestry.com</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6  col-lg-4">
+                                <p class="c-font-bold c-xypike-titlefrontbar">Ancestry.com </p>
+                                <ul>
+                                    <li> Sign to your Ancestry account </li>
+                                    <li>Go to the DNA tab </li>
+                                    <li>Click on Your DNA Home Page</li>
+                                    <li>Click on Manage Test Settings</li>
+                                </ul>
+                                <p>https://www.ansestry.com</p>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-lg-4 c-bg-red1">
+                                <p class="c-font-bold c-xypike-titlefrontbar">FTDNA.com </p>
+                                <ul>
+                                    <li>Sign to your FTDNA account </li>
+                                    <li>Click myFTDNA </li>
+                                    <li>CLick om MyDNA </li>
+                                    <li>Click on Family Finder </li>
+                                    <li>Download Raw Data </li>
+                                </ul>
+                                <p>https://www.familytreedna.com</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade c-content-login-form" id="forget-password-form" role="dialog" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog">
+            <div class="modal-content c-square">
+                <div class="modal-header c-no-border">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <h3 class="c-font-24 c-font-sbold">Password Recovery</h3>
+                    <p>To recover your password please fill in your email address</p>
+                    <form>
+                        <div class="form-group">
+                            <label for="forget-email" class="hide">Email</label>
+                            <input type="email" class="form-control input-lg c-square" id="forget-email" placeholder="Email"> </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary c-btn-round  c-btn-uppercase c-btn-bold">Submit</button> <a href="javascript:;" class="c-btn-forgot" data-toggle="modal" data-target="#login-form" data-dismiss="modal">Back To Login</a> </div>
+                    </form>
+                </div>
+                <div class="modal-footer c-no-border"> <span class="c-text-account">Don't Have An Account Yet ?</span> <a href="javascript:;" data-toggle="modal" data-target="#signup-form" data-dismiss="modal" class="btn btn-success c-btn-round c-btn-uppercase c-btn-bold">Register</a></div>
+            </div>
+        </div>
+    </div>
+    <!-- END: CONTENT/USER/FORGET-PASSWORD-FORM -->
+    <!-- BEGIN: CONTENT/USER/SIGNUP-FORM -->
+    <div class="modal fade c-content-signup-form" id="signup-form" role="dialog" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog">
+            <div class="modal-content c-square">
+                <div class="modal-header c-no-border">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <!--test-->
+                    <div class="c-content-tab-2 c-theme c-margin-t-5">
+                        <div class="clearfix1">
+                            <ul class="nav nav-tabs c-font-uppercase c-font-bold">
+                                <li class="active"><a href="#tab_individuals" data-toggle="tab">CREATE AN INDIVIDUALS ACCOUNT</a></li>
+                                <li><a href="#tab_providers" data-toggle="tab">CREATE A PROVIDERS ACCOUNT</a></li>
+                                <!--
+                                <li><a href="#tab_dnaupload" data-toggle="tab">DNA UPLOAD</a></li>
+-->
+                            </ul>
+                        </div>
+                        <div class="tab-content c-bordered c-padding-lg">
+                            <div class="tab-pane active c-margin-t-20" id="tab_individuals">
+                                <div class="row">
+                                    <div class="col-lg-9 col-lg-offset-2">
+                                        <form role="form">
+                                            <h4>Sign-up to upload the DNA data and to order the insights. 
+Through your account you can view, print, and download your wellness reports, 
+as well as share it with your providers</h4>
+                                            <hr class="colorgraph1">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="first_name" id="u_first_name" class="form-control input-lg" placeholder="First Name" tabindex="1"> </div>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="last_name" id="u_last_name" class="form-control input-lg" placeholder="Last Name" tabindex="2"> </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="email" name="email" id="u_email" class="form-control input-lg" placeholder="Email Address" tabindex="4"> </div>
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="password" name="password" id="u_password" class="form-control input-lg" placeholder="Password" tabindex="5"> </div>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="password" name="password_confirmation" id="u_password_confirmation" class="form-control input-lg" placeholder="Confirm Password" tabindex="6"> </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-xs-8 col-sm-9 col-md-9 col-lg-12"> By clicking <strong class="label label-primary">Register</strong>, you agree to the <a href="#" data-toggle="modal" data-target="#t_and_c_m">Terms and Conditions</a> set out by this site, including our Cookie Use. </div>
+                                            </div>
+                                            <hr class="colorgraph">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-md-6">
+                                                    <a href="" onclick="alert('register here as individual'); return false;">
+                                                        <input type="submit" value="Register" class="btn btn-primary c-btn-round  c-btn-uppercase c-btn-bold" tabindex="7"> </a>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane c-margin-t-20" id="tab_providers">
+                                <div class="row">
+                                    <div class="col-lg-4 c-padding-10 c-bg-xypike-bottompanel c-green-dark c-font-14">
+                                        <p>Join our referral network</p>
+                                        <p>Enhance your offerings</p>
+                                        <p>Grow your business</p>
+                                        <p>Boost your revenue</p>
+                                    </div>
+                                    <div class="col-lg-8">
+                                        <form role="form">
+                                            <h5>Genetic consulting adds a significant new dimension to your practice, allowing you to grow your business through empowering your clients with individualized plans and actionable insights. </h5>
+                                            <h5>
+
+While our reports are designed to be as clear as possible, we urge our clients to consult with professional service providers and we will refer them to you!</h5>
+                                            <hr class="colorgraph1">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="first_name" id="u_first_name" class="form-control input-lg" placeholder="First Name" tabindex="1"> </div>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="last_name" id="u_last_name" class="form-control input-lg" placeholder="Last Name" tabindex="2"> </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="email" name="email" id="u_email" class="form-control input-lg" placeholder="Email Address" tabindex="4"> </div>
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="website" id="website" class="form-control input-lg" placeholder="Website" tabindex="1"> </div>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="text" name="your_business" id="your_business" class="form-control input-lg" placeholder="Describe Your Business" tabindex="2"> </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="password" name="password" id="u_password" class="form-control input-lg" placeholder="Password" tabindex="5"> </div>
+                                                </div>
+                                                <div class="col-xs-12 col-sm-6 col-md-6">
+                                                    <div class="form-group">
+                                                        <input type="password" name="password_confirmation" id="u_password_confirmation" class="form-control input-lg" placeholder="Confirm Password" tabindex="6"> </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-xs-8 col-sm-9 col-md-9 col-lg-12"> By clicking <strong class="label label-primary">Register</strong>, you agree to the <a href="#" data-toggle="modal" data-target="#t_and_c_m">Terms and Conditions</a> set out by this site, including our Cookie Use. </div>
+                                            </div>
+                                            <hr class="colorgraph">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-md-6">
+                                                    <a href="" onclick="alert('Register here as provider'); return false;">
+                                                        <input type="submit" value="Register" class="btn btn-primary c-btn-round  c-btn-uppercase c-btn-bold" tabindex="7"> </a>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--<div class="tab-pane  c-margin-t-20" id="tab_dnaupload">
+    <div class="c-content-title-4 c-bg-xypike-titlefrontbar  c-padding-10">
+        <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">DNA UPLOAD</span>
+					</h3></div>
+    <div class="col-lg-10 col-lg-offset-2"> <span class="c-margin-r-10 c-xypike-titlefrontbar"><i class="fa fa-search c-margin-r-10"></i>Select DNA file on your computer</span>
+        <input type="submit" value="Upload" class="btn btn-primary  btn-lg" tabindex="7">
+        <hr class="colorgraph">
+        <div class="c-col-12 ">
+            <div class="row c-bg-grey c-padding-20">
+                <h3 class="c-center c-font-bold c-xypike-titlefrontbar ">Where to find and how to download the DNA file?</h3>
+                <div class="col-md-4 col-sm-6 col-lg-4">
+                    <p class="c-font-bold c-xypike-titlefrontbar">23andme.com </p>
+                    <ul>
+                        <li> Go to Tools</li>
+                        <li>Click on Browse Raw Data</li>
+                        <li>Click on Download </li>
+                        <li>Enter your password </li>
+                        <li>Download Raw Data </li>
+                    </ul>
+                    <p>https://www.ansestry.com</p>
+                </div>
+                <div class="col-md-4 col-sm-6  col-lg-4">
+                    <p class="c-font-bold c-xypike-titlefrontbar">Ancestry.com </p>
+                    <ul>
+                        <li> Sign to your Ancestry account </li>
+                        <li>Go to the DNA tab </li>
+                        <li>Click on Your DNA Home Page</li>
+                        <li>Click on Manage Test Settings</li>
+                    </ul>
+                    <p>https://www.ansestry.com</p>
+                </div>
+                <div class="col-md-4 col-sm-6 col-lg-4 c-bg-red1">
+                    <p class="c-font-bold c-xypike-titlefrontbar">FTDNA.com </p>
+                    <ul>
+                        <li>Sign to your FTDNA account </li>
+                        <li>Click myFTDNA </li>
+                        <li>CLick om MyDNA </li>
+                        <li>Click on Family Finder </li>
+                        <li>Download Raw Data </li>
+                    </ul>
+                    <p>https://www.familytreedna.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>--></div>
+                    </div>
+                    <!-- end test -->
+                    <!--<p>Please fill in below form to create an account with us</p>
+<form>
+    <div class="form-group">
+        <label for="signup-email" class="hide">Email</label>
+        <input type="email" class="form-control input-lg c-square" id="signup-email" placeholder="Email"> </div>
+    <div class="form-group">
+        <label for="signup-username" class="hide">Username</label>
+        <input type="email" class="form-control input-lg c-square" id="signup-username" placeholder="Username"> </div>
+    <div class="form-group">
+        <label for="signup-fullname" class="hide">Fullname</label>
+        <input type="email" class="form-control input-lg c-square" id="signup-fullname" placeholder="Fullname"> </div>
+    <div class="form-group">
+        <label for="signup-country" class="hide">Country</label>
+        <select class="form-control input-lg c-square" id="signup-country">
+            <option value="1">Country</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn c-theme-btn btn-md c-btn-uppercase c-btn-bold c-btn-square c-btn-login">Signup</button> <a href="javascript:;" class="c-btn-forgot" data-toggle="modal" data-target="#login-form" data-dismiss="modal">Back To Login</a> </div>
+</form>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END: CONTENT/USER/SIGNUP-FORM -->
+    <!-- BEGIN: CONTENT/USER/LOGIN-FORM -->
+    <div class="modal fade c-content-login-form" id="login-form" role="dialog" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog">
+            <div class="modal-content c-square">
+                <div class="modal-header c-no-border">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <h3 class="c-font-24 c-font-sbold">Creat to have you back!</h3>
+                    <p>Sign in to continue.</p>
+                    <form>
+                        <div class="form-group">
+                            <label for="login-email" class="hide">Email</label>
+                            <input type="email" class="form-control input-lg c-square" id="login-email" placeholder="Email"> </div>
+                        <div class="form-group">
+                            <label for="login-password" class="hide">Password</label>
+                            <input type="password" class="form-control input-lg c-square" id="login-password" placeholder="Password"> </div>
+                        <div class="form-group">
+                            <div class="c-checkbox">
+                                <input type="checkbox" id="login-rememberme" class="c-check">
+                                <label for="login-rememberme" class="c-font-thin c-font-17"> <span></span> <span class="check"></span> <span class="box"></span> Remember Me </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <a href="" onclick="alert('Login here'); return false;">
+                                <button type="submit" class="btn btn-primary c-btn-round c-btn-uppercase c-btn-bold">Login</button>
+                            </a> <a href="javascript:;" data-toggle="modal" data-target="#forget-password-form" data-dismiss="modal" class="c-btn-forgot">Forgot Your Password ?</a> </div>
+                        <!--<div class="clearfix">
+    <div class="c-content-divider c-divider-sm c-icon-bg c-bg-grey c-margin-b-20"> <span>or signup with</span> </div>
+    <ul class="c-content-list-adjusted">
+        <li>
+            <a class="btn btn-block c-btn-square btn-social btn-twitter"> <i class="fa fa-twitter"></i> Twitter </a>
+        </li>
+        <li>
+            <a class="btn btn-block c-btn-square btn-social btn-facebook"> <i class="fa fa-facebook"></i> Facebook </a>
+        </li>
+        <li>
+            <a class="btn btn-block c-btn-square btn-social btn-google"> <i class="fa fa-google"></i> Google </a>
+        </li>
+    </ul>
+</div>-->
+                    </form>
+                </div>
+                <div class="modal-footer c-no-border"> <span class="c-text-account">Don't Have An Account Yet ?</span>
+                    <!--<a href="#signup">Signup</a>--><a href="javascript:;" data-toggle="modal" data-target="#signup-form" data-dismiss="modal" class="btn btn-success c-btn-round  c-btn-uppercase c-btn-bold">Signup</a></div>
+            </div>
+        </div>
+    </div>
+    <!-- END: CONTENT/USER/LOGIN-FORM -->
+    <!--    MODAL FORMS END-->
+    <a name="footer"></a>
+    <!--	<footer class="c-layout-footer c-layout-footer-1">
+		<div class="c-postfooter">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+						<p class="c-copyright c-font-14"> Copyright &copy; XYPIKE Inc. 2018</p>
+					</div>
+					<div class="col-md-6 col-sm-6">
+						<ul class="c-socials">
+							<li><a href="#"><i class="icon-social-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-social-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-social-youtube"></i></a></li>
+							<li><a href="#"><i class="icon-social-dribbble"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>-->
+    <!-- END: LAYOUT/FOOTERS/FOOTER-2 -->
+    <div class="c-layout-go2top c-font-red"> <i class="icon-arrow-up"></i> </div>
+    <!--[if lt IE 9]>
+	<script src="assets/global/plugins/excanvas.min.js"></script> 
+	<![endif]-->
+    <script src="assets/plugins/jquery.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
+    <script src="assets/demos/default/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
+    <!-- END: CORE PLUGINS -->
+    <!-- BEGIN: LAYOUT PLUGINS -->
+    <script src="assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+    <script src="assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>
+    <script src="assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>
+    <script src="assets/plugins/js-cookie/js.cookie.js" type="text/javascript"></script>
+    <!-- END: LAYOUT PLUGINS -->
+    <!-- BEGIN: THEME SCRIPTS -->
+    <script src="assets/base/js/components.js" type="text/javascript"></script>
+    <script src="assets/base/js/components-shop.js" type="text/javascript"></script>
+    <script src="assets/base/js/app.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function () {
+            App.init(); // init core    
+        });
+    </script>
+    <!-- END: THEME SCRIPTS -->
+    <!-- END: LAYOUT/BASE/BOTTOM -->
+</body>
+
+</html>

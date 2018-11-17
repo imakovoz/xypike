@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+<!-- BEGIN HEAD -->
+
+<head>
+    <meta charset="utf-8" />
+    <title>XYPIKE</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&amp;subset=all' rel='stylesheet' type='text/css'>
+    <link href="assets/plugins/socicon/socicon.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/bootstrap-social/bootstrap-social.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/font-awesome5/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/animate/animate.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+    <!-- BEGIN: BASE PLUGINS  -->
+    <link href="assets/plugins/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/owl-carousel/assets/owl.carousel.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+    <link href="assets/plugins/slider-for-bootstrap/css/slider.css" rel="stylesheet" type="text/css" />
+    <!-- END: BASE PLUGINS -->
+    <!-- BEGIN THEME STYLES -->
+    <link href="assets/demos/default/css/plugins.css" rel="stylesheet" type="text/css" />
+    <link href="assets/demos/default/css/components.css" id="style_components" rel="stylesheet" type="text/css" />
+    <link href="assets/demos/default/css/themes/default.css" rel="stylesheet" id="style_theme" type="text/css" />
+    <link href="assets/demos/default/css/custom.css" rel="stylesheet" type="text/css" />
+    <!-- END THEME STYLES -->
+    <link rel="shortcut icon" href="favicon.ico" /> </head>
+
+<body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-topbar c-layout-header-topbar-collapse">
+    <!-- BEGIN: LAYOUT/HEADERS/HEADER-1 -->
+    <!-- BEGIN: HEADER -->
+    <header class="c-layout-header c-layout-header-4 c-layout-header-default-mobile c-navbar-fluid" data-minimize-offset="80">
+        <div class="c-topbar c-bg-xypike-topbar">
+            <div class="container">
+                <!-- BEGIN: INLINE NAV -->
+                <nav class="c-top-menu c-pull-left">
+                    <ul class="c-icons c-theme-ul">
+                        <li><a href="#"><i class="icon-social-twitter c-font-white"></i></a></li>
+                        <li><a href="#"><i class="icon-social-facebook c-font-white"></i></a></li>
+                        <li><a href="#"><i class="icon-social-dribbble c-font-white"></i></a></li>
+                    </ul>
+                </nav>
+                <!-- END: INLINE NAV -->
+                <!-- BEGIN: INLINE NAV -->
+                <nav class="c-top-menu c-pull-right">
+                    <ul class="c-links c-theme-ul c-font-white">
+                        <li><a href="#"><span class="c-font-white">Help</span></a></li>
+                        <li class="c-divider">|</li>
+                        <li><a href="#contact"><span class="c-font-white">Contact</span></a></li>
+                        <li class="c-divider">|</li>
+                        <li><a href="#"><span class="c-font-white">FAQ</span></a></li>
+                    </ul>
+                </nav>
+                <!-- END: INLINE NAV -->
+            </div>
+        </div>
+        <div class="c-navbar">
+            <div class="container-fluid">
+                <!-- BEGIN: BRAND -->
+                <div class="c-navbar-wrapper clearfix">
+                    <div class="c-brand c-pull-left">
+                        <a href="xypike-7.html" class="c-logo"> <img src="assets/base/img/layout/logos/logo-x.png" width="87" height="21" alt="JANGO" class="c-desktop-logo"> <img src="assets/base/img/layout/logos/logo-x.png" alt="JANGO" width="87" height="21" class="c-desktop-logo-inverse"> <img src="assets/base/img/layout/logos/logo-x.png" alt="JANGO" width="87" height="21" class="c-mobile-logo"> </a>
+                        <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu"> <span class="c-line"></span> <span class="c-line"></span> <span class="c-line"></span> </button>
+                        <button class="c-topbar-toggler" type="button"> <i class="fa fa-ellipsis-v"></i> </button>
+                        <button class="c-cart-toggler" type="button"> <i class="icon-handbag"></i> <span class="c-cart-number c-theme-bg">2</span> </button>
+                    </div>
+                    <!-- END: BRAND -->
+                    <!-- BEGIN: QUICK SEARCH -->
+                    <!-- END: QUICK SEARCH -->
+                    <!-- BEGIN: HOR NAV -->
+                    <!-- BEGIN: LAYOUT/HEADERS/MEGA-MENU -->
+                    <!-- BEGIN: MEGA MENU -->
+                    <!-- Dropdown menu toggle on mobile: c-toggler class can be applied to the link arrow or link itself depending on toggle mode -->
+                    <nav class="c-mega-menu c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold">
+                        <ul class="nav navbar-nav c-theme-nav">
+                            <li> <a href="xypike-7.html" class="c-link dropdown-toggle">Products<span class="c-arrow c-toggler"></span></a> </li>
+                            <li> <a href="#stories" class="c-link dropdown-toggle">Stories<span class="c-arrow c-toggler"></span></a> </li>
+                            <li> <a href="#howto" class="c-link dropdown-toggle">How to<span class="c-arrow c-toggler"></span></a> </li>
+                            <li class="c-cart-toggler-wrapper"> <a href="#" class="c-btn-icon c-cart-toggler"><i class="icon-handbag c-cart-icon"></i> <span class="c-cart-number c-theme-bg">2</span></a> </li>
+                            <li> <a href="#" data-toggle="modal" data-target="#login-form" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-sm c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold"><i class="icon-user"></i> Sign In</a> </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div id="home"></div>
+    <div class="c-layout-page1  c-margin-t-60">
+        <div class="c-content-box c-size-md c-overflow-hide">
+            <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-40">
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Get life-changing actionable insights from your existing DNA tests</span>
+					</h3>
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar c-font-bold">IMPROVE YOUR WELLNESS</span>
+					</h3>
+                <h3 class="c-center c-margin-t-5">				
+				<span class="c-xypike-titlefrontbar"><a href="#howto" class="c-action-btn btn btn-lg c-btn-square c-btn-border-2x c-btn-dark c-btn-bold c-btn-uppercase">learn more</a></span>
+					</h3></div>
+            <div class="row">
+                <div>
+                    <div class="col-md-2 col-sm-5 col-lg-1"></div>
+                    <div class="col-md-2 col-sm-5">
+                        <div class="c-content c-font-center">
+                            <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_1.png"> </a>
+                        </div>
+                        <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">fitness</div>
+                    </div>
+                    <div class="col-md-2 col-sm-5">
+                        <div class="c-content c-font-center">
+                            <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_2.png"> </a>
+                        </div>
+                        <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">nutrition</div>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-5">
+                    <div class="c-content c-font-center">
+                        <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_3.png"></a>
+                    </div>
+                    <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">allergies</div>
+                </div>
+                <div class="col-md-2 col-sm-5">
+                    <div class="c-content c-font-center">
+                        <a href="#fitness-prod"> <img src="assets/base/img/content/shop3/image_4.png"></a>
+                    </div>
+                    <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">about you</div>
+                </div>
+                <div class="col-md-2 col-sm-5">
+                    <div class="c-content c-font-center">
+                        <a href="#fitness-prod"><img src="assets/base/img/content/shop3/image_5.png"></a>
+                    </div>
+                    <div class="c-font-center c-font-uppercase c-margin-t-10 c-font-dark c-font-bold">skincare</div>
+                </div>
+            </div>
+            <div class="row c-bg-xypike-bottompanel c-center c-padding-20 c-margin-t-20 c-font-dark">
+                <h3>Select ALL PRODUCTS to receive a discount on Total Wellness Package</h3> </div>
+            <!--<div class="row c-bg-white c-center c-font-dark">
+    <h3><span class="c-xypike-titlefrontbar"><a href="#" class="c-action-btn btn btn-lg c-btn-square c-btn-border-2x c-btn-dark c-btn-bold c-btn-uppercase">start your journey</a></span>
+					</h3> </div>--></div>
+        <div id="fitness-prod"></div>
+        <div class="c-content-box c-size-md c-bg-white  c-xypike-titlefrontbar">
+            <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Fitness+Excercise</span>
+					</h3> </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-2 c-center"><img src="assets/base/img/content/shop3/image_1.png">
+                        <div class="row c-bg-white c-left c-font-dark c-center">
+                            <h3><span class="c-xypike-titlefrontbar"><a href="#" class="c-action-btn btn btn-sm c-btn-square c-btn-border-2x c-btn-dark c-btn-bold c-btn-uppercase">Add to shopping cart</a></span>
+					</h3> </div>
+                    </div>
+                    <div class="col-lg-8 c-margin-t-40 c-font-bold">Genetics have a significant effect on your overall muscle power and how much exercise your body needs. Your potential for muscle injury, muscle cramps and muscle soreness after exercise is also influenced by your genes.</div>
+                </div>
+                <div class="row">
+                    <div class="c-content-tab-1 c-theme c-margin-t-30">
+                        <div class="clearfix">
+                            <ul class="nav nav-tabs c-font-bold">
+                                <li class=""> <a href="#tab1" data-toggle="tab">Description</a> </li>
+                                <li> <a href="#tab2" data-toggle="tab">Traits</a> </li>
+                                <li class="active"> <a href="#tab3" data-toggle="tab" aria-expanded="true">
+									Testimonials </a> </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-9 col-sm-8 col-xs-8">
+                            <div class="tab-content c-padding-sm">
+                                <div class="tab-pane fade" id="tab1">
+                                    <p> Twenty-eight fitness characteristics offer valuable insights into the ways your body will respond to different kinds of exercise. More importantly, your genetic makeup also determines the particular types of injuries to which you may be susceptible.Whether you are looking to lose weight, increase your strength and endurance or avoid an injury, our reports will help you and your trainer create the best-fitting program for you.</p>
+                                    <p> Should you do power exercises, endurance exercises, or both? Do you have genetic predispositions for becoming a professional athlete? Can you run a marathon? What is your potential for having a leaner body mass? This report will specify your particular predispositions. </p>
+                                </div>
+                                <div class="tab-pane fade" id="tab2">
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Athletics Profile</p> Aerobic performance Elite Endurance Athletes Exercise Aversion Joint Flexibility Lean Body Mass Potential Low Resting Metabolic Rate </div>
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Injury Potential</p>Achilles Tendinopathy Anterior Cruciate Ligament Rupture Joint Injury Tendon and Ligament Injury Stress Fracture</div>
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Characterictics</p>Muscle Response to Resistance Training Muscle Soreness Muscle Strength Loss Skeletal Muscle Performance Slow Muscle Repair</div>
+                                    <div class="col-lg-3">
+                                        <p class="c-font-bold">Exersize Benefits</p>Maximal Oxygen Uptake Response Lowering Cholesterol Heartbeat Reduction Difficulty Lower Heart Pump Function Blood Pressure</div>
+                                </div>
+                                <div class="tab-pane active" id="tab3">
+                                    <p> The information provided in my report was very interesting for me and revealed some un-expected aspects. Positive effects on my training remain to be proven, however it was very inspiring for me.</p>
+                                    <p> I wanted to get my fitness and diet to the next level. Once I received the reports I had a few sessions with my fitness and dietitian coaches and everything became clear. It was a very good investment and now I will adjust my training program and I am looking forward to see the results over the next few months! </p>
+                                    <p> Really insightful and in-depth reports. I’ve already started to act on the results of both the nutrition and exercise reports. I’m using the low carbohydrate plan and looking at changing the way I exercise to make the most of my training. Very glad I did it! </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="stories"></div>
+        <div class="c-content-box c-size-md c-bg-white c-xypike-titlefrontbar c-margin-b-50 container-fluid">
+            <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">There are the stories of our customers</span>
+					</h3>
+                <h5 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Your experience may be different since everybody's DNA is unique</span>
+					</h5> </div>
+            <div class="container c-margin-t-50 c-col-4">
+                <ul class="c-content-list-1 c-theme">
+                    <li>The Diet and Nutrition insights has really pushed me to consider my relationship with food, the diet choices I make, and has convinced me to make long-term changes. </li>
+                    <li>I’ve always struggled with nutrition, never knowing exactly what I’m supposed to eat. I am a very picky eater, but now, thanks to the DNA based insgihts, I know what's the best for my body.</li>
+                    <li>I’ve always struggled with nutrition, never knowing exactly what I’m supposed to eat. I am a very picky eater, but now, thanks to the DNA based insgihts, I know what's the best for my body.</li>
+                    <li>This information has really changed my life. By learning about my DNA, I was able to maximize the effects of my workouts and see what I was doing wrong. I was able to hit my workout goal and become the healthiest I’ve ever been!</li>
+                    <li>The results were quick and the reports are very imformative</li>
+                </ul>
+            </div>
+        </div>
+        <div id="howto"></div>
+        <div class="c-content-box c-size-md c-bg-white c-xypike-titlefrontbar">
+            <div>
+                <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                    <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Change your life!</span>
+					</h3>
+                    <h5 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Only the knowledge about your genetic predispositions enables a personalized wellness</span>
+					</h5> </div>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6 wow animate fadeInLeft">
+                            <div class="c-content-step-1 c-opt-1">
+                                <div class="c-icon"><span class="c-hr c-hr-first"><i class="fa fa-user   c-xypike-titlefrontbar"></i></span> </div>
+                                <div class="c-title c-font-20 c-font-bold c-font-uppercase">Sign-up now.</div>
+                                <div class="c-description1 c-font-17 c-xypike-titlefrontbar"> Through your account you can view, print, and download your wellness reports, as well as share it with your providers. </div>
+                                <button class="btn c-btn-square c-bg-blue c-btn-border1-2x c-btn-uppercase c-btn-bold c-margin-t-25">sign-up</button>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 wow animate fadeInLeft" data-wow-delay="0.2s">
+                            <div class="c-content-step-1 c-opt-1">
+                                <div class="c-icon"><span class="c-hr"><i class="fa fa-cloud-upload   c-xypike-titlefrontbar"></i></span> </div>
+                                <div class="c-title c-font-20 c-font-bold c-font-uppercase">Upload raw DNA file.</div>
+                                <div class="c-description1 c-font-17 c-xypike-titlefrontbar"> Upload your existing 23andMe, Ancestry.com or FTDNA data and in just a few clicks you will discover a whole world of personalization waiting for you.</div>
+                                <button class="btn c-btn-square c-bg-blue c-btn-uppercase c-btn-bold c-margin-t-25">upload dna file</button>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-12 wow animate fadeInLeft" data-wow-delay="0.4s">
+                            <div class="c-content-step-1 c-opt-1">
+                                <div class="c-icon"><span class="c-hr c-hr-last"><i class="fa fa-gift   c-xypike-titlefrontbar"></i></span> </div>
+                                <div class="c-title c-font-20 c-font-bold c-font-uppercase">Choose the product</div>
+                                <div class="c-description1 c-font-17   c-xypike-titlefrontbar"> Choose the options that best suit your needs and receive easy to read, informative results within minutes. Select all products to receive a discount for Total Wellness Package. </div>
+                                <button class="btn c-btn-square c-bg-blue c-btn-uppercase c-btn-bold">products</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="contact"></div>
+        <div class="c-content-box c-size-md c-bg-white c-xypike-titlefrontbar">
+            <div class="container1">
+                <div class="c-content-title-4 c-bg-xypike-titlefrontbar c-padding-10">
+                    <h3 class="c-center">				
+				<span class="c-xypike-titlefrontbar">Contact Us</span>
+					</h3> </div>
+                <div class="container">
+                    <div class="col-md-6">
+                        <div class="c-contact">
+                            <div class="c-content-title-1">
+                                <p class="c-font-lowercase">Our helpline is always open to receive any inquiry or feedback. Please feel free to drop us an email from the form below and we will get back to you as soon as we can.</p>
+                            </div>
+                            <form action="#">
+                                <div class="form-group">
+                                    <input type="text" placeholder="Your Name" class="form-control c-square c-theme input-lg"> </div>
+                                <div class="form-group">
+                                    <input type="text" placeholder="Your Email" class="form-control c-square c-theme input-lg"> </div>
+                                <div class="form-group">
+                                    <input type="text" placeholder="Contact Phone" class="form-control c-square c-theme input-lg"> </div>
+                                <div class="form-group">
+                                    <textarea rows="5" name="message" placeholder="Write comment here ..." class="form-control c-theme c-square input-lg"></textarea>
+                                </div>
+                                <button type="submit" class="btn c-btn-uppercase btn-lg c-btn-bold c-btn-square c-bg-blue">Submit</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a name="footer"></a>
+    <footer class="c-layout-footer c-layout-footer-1">
+        <div class="c-postfooter">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <p class="c-copyright c-font-14"> Copyright &copy; XYPIKE Inc. 2018</p>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <ul class="c-socials">
+                            <li><a href="#"><i class="icon-social-twitter"></i></a></li>
+                            <li><a href="#"><i class="icon-social-facebook"></i></a></li>
+                            <li><a href="#"><i class="icon-social-youtube"></i></a></li>
+                            <li><a href="#"><i class="icon-social-dribbble"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- END: LAYOUT/FOOTERS/FOOTER-2 -->
+    <div class="c-layout-go2top c-font-red"> <i class="icon-arrow-up"></i> </div>
+    <!--[if lt IE 9]>
+	<script src="assets/global/plugins/excanvas.min.js"></script> 
+	<![endif]-->
+    <script src="assets/plugins/jquery.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/jquery-migrate.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/jquery.easing.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/reveal-animate/wow.js" type="text/javascript"></script>
+    <script src="assets/demos/default/js/scripts/reveal-animate/reveal-animate.js" type="text/javascript"></script>
+    <!-- END: CORE PLUGINS -->
+    <!-- BEGIN: LAYOUT PLUGINS -->
+    <script src="assets/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/counterup/jquery.counterup.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/counterup/jquery.waypoints.min.js" type="text/javascript"></script>
+    <script src="assets/plugins/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+    <script src="assets/plugins/smooth-scroll/jquery.smooth-scroll.js" type="text/javascript"></script>
+    <script src="assets/plugins/slider-for-bootstrap/js/bootstrap-slider.js" type="text/javascript"></script>
+    <script src="assets/plugins/js-cookie/js.cookie.js" type="text/javascript"></script>
+    <!-- END: LAYOUT PLUGINS -->
+    <!-- BEGIN: THEME SCRIPTS -->
+    <script src="assets/base/js/components.js" type="text/javascript"></script>
+    <script src="assets/base/js/components-shop.js" type="text/javascript"></script>
+    <script src="assets/base/js/app.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function () {
+            App.init(); // init core    
+        });
+    </script>
+    <!-- END: THEME SCRIPTS -->
+    <!-- END: LAYOUT/BASE/BOTTOM -->
+</body>
+
+</html>

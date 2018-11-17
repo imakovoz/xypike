@@ -1,0 +1,36 @@
+#mainDiv {
+  height: calc(100vh - 100px);
+  width: 100vw;
+  margin-top: 100px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#stock-vid {
+  background-size: cover;
+  transition: 1s opacity;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
+  position: absolute;
+}
+
+#bannerSpan {
+  margin-top: 10%;
+  color: white;
+  font-size: 30px;
+  text-shadow: 1px 0 0 black, 0 -1px 0 black, 0 1px 0 black, -1px 0 0 black;
+}
+
+#learnMore {
+  margin-top: 2%;
+  background-color: rgba(240, 240, 240, 0.4);
+}
+
+#frontPageProducts {
+  margin: 30px 0;
+}
